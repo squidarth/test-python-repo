@@ -1,6 +1,7 @@
 def myfunc():
     print("YO")
     print("another thing")
+    print("asdf")
 
 #from foo.foo_utils import foo_function
 #from bar.subbar.subbar_utils import subbar_function
