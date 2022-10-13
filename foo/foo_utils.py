@@ -1,2 +1,2 @@
 def foo_function(x):
-    print("called foo function")
+    print("called updated foo function")
